@@ -13,3 +13,8 @@ This R script builds a movie recommendation engine using an **Item-Based Collabo
 6. **Prediction and Evaluation**: The model predicts top movie recommendations for each user, and the results are displayed as movie titles. Further analysis is performed to examine the distribution of recommended items across users.
 
 The entire process is visualized through various plots, including heatmaps, bar plots, and distribution charts, to gain insights into movie recommendations, user preferences, and the behavior of the recommendation system.
+
+Total Views of Movies
+
+![total_views_of_movies](https://github.com/user-attachments/assets/cd931eda-34b8-4d50-9b89-4290c74a413d)
+
